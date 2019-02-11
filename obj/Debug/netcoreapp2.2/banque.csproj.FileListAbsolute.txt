@@ -1,0 +1,11 @@
+C:\Users\utilisateur\Desktop\Cours\Projet_PPE\Dossier_partage\banque\obj\Debug\netcoreapp2.2\banque.csprojAssemblyReference.cache
+C:\Users\utilisateur\Desktop\Cours\Projet_PPE\Dossier_partage\banque\obj\Debug\netcoreapp2.2\banque.csproj.CoreCompileInputs.cache
+C:\Users\utilisateur\Desktop\Cours\Projet_PPE\Dossier_partage\banque\obj\Debug\netcoreapp2.2\banque.AssemblyInfoInputs.cache
+C:\Users\utilisateur\Desktop\Cours\Projet_PPE\Dossier_partage\banque\obj\Debug\netcoreapp2.2\banque.AssemblyInfo.cs
+C:\Users\utilisateur\Desktop\Cours\Projet_PPE\Dossier_partage\banque\bin\Debug\netcoreapp2.2\banque.deps.json
+C:\Users\utilisateur\Desktop\Cours\Projet_PPE\Dossier_partage\banque\bin\Debug\netcoreapp2.2\banque.runtimeconfig.json
+C:\Users\utilisateur\Desktop\Cours\Projet_PPE\Dossier_partage\banque\bin\Debug\netcoreapp2.2\banque.runtimeconfig.dev.json
+C:\Users\utilisateur\Desktop\Cours\Projet_PPE\Dossier_partage\banque\bin\Debug\netcoreapp2.2\banque.dll
+C:\Users\utilisateur\Desktop\Cours\Projet_PPE\Dossier_partage\banque\bin\Debug\netcoreapp2.2\banque.pdb
+C:\Users\utilisateur\Desktop\Cours\Projet_PPE\Dossier_partage\banque\obj\Debug\netcoreapp2.2\banque.dll
+C:\Users\utilisateur\Desktop\Cours\Projet_PPE\Dossier_partage\banque\obj\Debug\netcoreapp2.2\banque.pdb
