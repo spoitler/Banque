@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dossier\\EPSI\\mini-banque\\banque\\banque.csproj",
+      "projectUniqueName": "D:\\Dossier\\EPSI\\banque\\banque.csproj",
       "projectName": "banque",
-      "projectPath": "D:\\Dossier\\EPSI\\mini-banque\\banque\\banque.csproj",
+      "projectPath": "D:\\Dossier\\EPSI\\banque\\banque.csproj",
       "packagesPath": "C:\\Users\\Romain\\.nuget\\packages\\",
-      "outputPath": "D:\\Dossier\\EPSI\\mini-banque\\banque\\obj\\",
+      "outputPath": "D:\\Dossier\\EPSI\\banque\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
