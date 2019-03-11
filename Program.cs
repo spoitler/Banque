@@ -8,12 +8,6 @@ namespace banque
         {
 
         }
-
-
-        public void afficher(Client client, Compte compte){
-            Console.WriteLine(client.Description);
-            Console.WriteLine(compte.Description);
-        }
     }
 }
 

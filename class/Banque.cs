@@ -32,5 +32,10 @@ namespace banque
 
             compte.credit();
         }
+
+        public void afficher(Client client, Compte compte){
+            Console.WriteLine(client.Description);
+            Console.WriteLine(compte.Description);
+        }
     }
 }
