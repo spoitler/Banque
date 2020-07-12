@@ -2,7 +2,7 @@ Banque
 ===
 
 Gestion de banque est une application console en C# suite a un projet école.<br>
-le projet est sous forme de librairie : voir dossier class
+le projet est sous forme de librairie : voir dossier [class](https://github.com/spoitler/Banque/tree/master/class)
 
 # Objectif
 
