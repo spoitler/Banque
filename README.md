@@ -52,8 +52,8 @@ Elle permet, entre autre, de :
 #### Développement
 |Code|Implementer|
 |----|-----------|
-|La classe client|<img src="https://img.pngio.com/check-correct-mark-success-tick-valid-yes-icon-valid-png-512_512.png" height="50">|
-|Les classes comptes|<img src="https://img.pngio.com/check-correct-mark-success-tick-valid-yes-icon-valid-png-512_512.png" height="50">|
-|La classe banque|<img src="https://img.pngio.com/check-correct-mark-success-tick-valid-yes-icon-valid-png-512_512.png" height="50">|
+|La classe client|<img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" height="50">|
+|Les classes comptes|<img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" height="50">|
+|La classe banque|<img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" height="50">|
 |Gestion clients|<img src="https://www.metiista.com/wp-content/themes/metiista/img/icons/png/cross-large-0.png" height="50">|
 |Gestion comptes|<img src="https://www.metiista.com/wp-content/themes/metiista/img/icons/png/cross-large-0.png" height="50">| 
